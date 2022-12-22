@@ -15,7 +15,7 @@ Installation
 
 Begin by installing this package through Composer. From the Terminal:
 
-    composer require nathanmac/parser
+    composer require sunder6218/parser
 
 ### Laravel/Lumen Users
 
