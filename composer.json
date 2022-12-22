@@ -1,5 +1,5 @@
 {
-    "name": "nathanmac/parser",
+    "name": "sunder6218/parser",
     "description": "Simple PHP Parser Utility Library for API Development",
     "keywords": [
       "parser",
@@ -11,17 +11,17 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Nathan Macnamara",
-            "email": "hola@nathanmac.com"
+            "name": "Sunder S",
+            "email": "sunder@sinch.com"
         }
     ],
     "require": {
         "php": ">=5.3.0",
-        "symfony/yaml": "~2.0|~3.0|~4.0|~5.0"
+        "symfony/yaml": "~6.0"
     },
     "require-dev": {
-        "illuminate/support": "~5.0|~6.0|~7.0",
-        "phpunit/phpunit": "4.*|5.*",
+        "illuminate/support": "~9.0",
+        "phpunit/phpunit": "9.*",
         "mockery/mockery": "0.9.3",
         "scrutinizer/ocular": "^1.1"
     },
